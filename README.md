@@ -29,7 +29,7 @@ Clone the repository:
    git clone https://github.com/brilboy/tourism-twitter-sentiment-analysis-ml.git
    ```
 
-## Library and Tools
+## Libraries and Tools
 - Python 3.x
 - Selenium
 - Scikit-learn
